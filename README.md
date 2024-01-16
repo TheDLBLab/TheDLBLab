@@ -7,6 +7,6 @@
 
 🧪My projects from Ground 0 To Hero <b>TheDLBLab</b> --> https://github.com/TheDLBLab/Zero-To-Hero
 
-💾<b>Discord</b> --> 
+💾<b>Discord</b> --> http://tinyurl.com/TheDLBLab-Discord
 
 ☕️Connect with me on <b>LinkedIn</b> 
