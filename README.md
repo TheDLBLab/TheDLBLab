@@ -3,10 +3,10 @@
 
 <b>Join</b> me on my evolutionary journey as I start from ground zero in the full-stack web developer space.
 
-📺<b>YouTube</b> --> 
+📺<b>YouTube</b> --> https://www.youtube.com/channel/UCnpDnURAJq-Adm1Jd0B7HYw
 
 🧪My projects from Ground 0 To Hero <b>TheDLBLab</b> -->
 
-💾<b>Discord</b> -->
+💾<b>Discord</b> --> 
 
 ☕️Connect with me on <b>LinkedIn</b> 
