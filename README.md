@@ -5,7 +5,7 @@
 
 📺<b>YouTube</b> --> http://tinyurl.com/TheDLBLab-YouTube
 
-🧪My projects from Ground 0 To Hero <b>TheDLBLab</b> --> https://github.com/TheDLBLab/Zero-To-Hero
+🧪My projects <b>Zero To Hero</b> --> https://github.com/TheDLBLab/Zero-To-Hero
 
 💾<b>Discord</b> --> http://tinyurl.com/TheDLBLab-Discord
 
