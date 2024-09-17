@@ -1,5 +1,5 @@
 <h1>Hi I'm Damon</h1>  
-<h3>From Caveman to Self-taught Software Developer</h3>
+<h3>Aspiring Software Engineerr</h3>
 
 <b>Join</b> me on my evolutionary journey as I start from ground zero in the full-stack web developer space.
 
